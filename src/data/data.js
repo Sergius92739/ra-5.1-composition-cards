@@ -1,5 +1,5 @@
 export const card1 = {
-  src: 'https://funart.pro/uploads/posts/2021-04/1617392795_41-p-oboi-domik-u-reki-42.jpg',
+  src: 'https://www.zagmir.ru/upload/infomir_pic/im305.jpg',
   title: 'Заголовок первой карточки',
   text: 'Очень важный текст для первой карточки'
 }
